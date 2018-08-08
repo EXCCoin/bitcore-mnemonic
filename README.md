@@ -1,5 +1,5 @@
 <img src="http://bitcore.io/css/images/module-mnemonic.png" alt="bitcore mnemonics" height="35">
-Mnemonics for bitcore Decred Fork
+Mnemonics for bitcore Exchangecoin Fork
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-mnemonic)
